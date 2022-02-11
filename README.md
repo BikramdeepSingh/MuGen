@@ -31,7 +31,7 @@ Terminal.
 2. Download anaconda for python 
 3. Install it. (It will install Jupyter as well as all the popular Data Science Libraries like Numpy, Pandas, etc.)
 4. Skip installing Microsoft VSCode if you already have it on your system.
-5. Open a terminal window and type jupyter notebook. (This will start the notebook server on your system.)
+5. Open a terminal window and type jupyter notebook or search jupyter on your system. (This will start the notebook server on your system.)
 6. A browser window opens up pointing to localhost:8888/tree or also known as jupyter dashboard. Files tab points to the home directory of your system.
 7. Somewhere on your machine create your jupyter notebook. By clicking on New->Python.
 8. Change the name of the notebook from untitled to something meaningful.
