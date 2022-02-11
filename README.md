@@ -8,7 +8,7 @@
 
 
 ## Steps in ML Project
-* **Import the Data** (most commomly used format is csv. If a database is containing your data, export that data in a csv file.)
+* **Import the Data** (most commomly used format is csv. If a database is containing your data, export that data in a csv file. Data sets can even be searched on kaggle.com )
 * **Clean the Data** (Removing duplicate or unnecessary data which may lead to wrong result)
 * **Split the Data into Training/Test Sets** (One for training the model and other for testing it. For exmaple 80% data for training the model and 20% for testing the model.)
 * **Create a Model** (Selecting a algorithm for analysing the data. There are multiple machine learning algorithms such as decision tress, neural networks, etc. Choice of algoritm depends on the kind of problem that is to be solved.)
