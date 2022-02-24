@@ -1,6 +1,9 @@
 # MuGen
+<<<<<<< HEAD
 
 =======
+=======
+>>>>>>> b4f4ce6f9973d7a428299da817595ce557a01942
 **MuGen** is an application of machine learning in python which suggests user the music genre they might find a best fit for them.
 
 ## Screenshots
