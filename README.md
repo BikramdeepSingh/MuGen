@@ -1,9 +1,5 @@
 
 # MuGen
-<<<<<<< HEAD
-
-MuGen is an application of machine learning in python which suggests user the genre they might find a best fit for them considering their age and gender.
-=======
 **MuGen** is an application of machine learning in python which suggests user the music genre they might find a best fit for them.
 
 ## Screenshots
@@ -43,5 +39,3 @@ Terminal.
 ## Authors
 
 - [@bikramdeepsingh](https://github.com/BikramdeepSingh)
-
->>>>>>> 55f556a872acdcc8d1bdade9a899c4da114b0997
